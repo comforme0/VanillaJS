@@ -2,4 +2,4 @@
 
 try it on
 
-https://githup.com/comforme0/VanillaJS
+https://comforme0.github.io/VanillaJS/
